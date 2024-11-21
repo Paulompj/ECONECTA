@@ -16,7 +16,7 @@
 ## Imagens do App  
 
 ### Tela Inicial  
-![Tela Inicial](link-da-imagem-tela-inicial)  
+![Tela Inicial](./TelaInformativaECONECTA.png)  
 *A interface simples e intuitiva do EcoConecta.*  
 
 ### Tela de Solicitação  
