@@ -19,13 +19,13 @@
 ![Tela Inicial](./TelaInformativaECONECTA.png)  
 *A interface simples e intuitiva do EcoConecta.*  
 
-### Tela de Solicitação  
-![Tela de Solicitação](link-da-imagem-solicitacao)  
-*Solicite coletas facilmente com poucos toques.*  
+### Informe seu Endereço com um mapa interativo  
+![Tela de Solicitação](./TelaEnderecoECONECTA.png)  
+*Informe seu endereço com extrama facilidade.*  
 
-### Histórico de Coletas  
-![Histórico de Coletas](link-da-imagem-historico)  
-*Visualize todas as coletas realizadas em um só lugar.*  
+### Requisite Coletas e Utilize um chat em tempo Real 
+![Histórico de Coletas](./TelaPedidoAndChat.png)  
+*Faça seus pedidos e converse com a Cooperativa que irá buscar.*  
 
 ---
 
