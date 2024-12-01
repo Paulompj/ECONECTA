@@ -1,6 +1,6 @@
-# EcoConecta ♻️  
+# Econecta ♻️  
 
-**EcoConecta** é um aplicativo que conecta cidadãos e empresas de coleta de resíduos, facilitando o descarte correto e promovendo a sustentabilidade. Com o EcoConecta, você pode agendar coletas de resíduos recicláveis e receber notificações sobre serviços disponíveis em sua região.  
+**Econecta** é um aplicativo que conecta cidadãos e empresas de coleta de resíduos, facilitando o descarte correto e promovendo a sustentabilidade. Com o EcoConecta, você pode agendar coletas de resíduos recicláveis e receber notificações sobre serviços disponíveis em sua região.  
 
 ---
 
